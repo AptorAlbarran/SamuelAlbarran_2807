@@ -1,0 +1,4 @@
+La organización de un centro de cómputo pienso que se basaría en la creación
+de una estructura de orden jerárquico y logre asignar actividades a cada 
+trabajador con el fin de poder facilitar y hacer más fluida la labor
+de quienes están involucrados
